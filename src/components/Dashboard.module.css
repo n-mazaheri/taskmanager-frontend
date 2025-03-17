@@ -1,0 +1,15 @@
+.sections{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap:50px;
+}
+.dashboard{
+    background-color: #DFF6FF;
+    padding:10px;
+
+}
+
+.dashboard-section p{
+    font-size: 14px;
+}

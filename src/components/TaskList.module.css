@@ -1,0 +1,16 @@
+.filters{
+    margin-bottom: 10px;
+display: flex;
+gap:15px;
+flex-wrap: wrap;
+}
+.label{
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    gap:5px;
+    align-items: center;
+}
+.total{
+    padding:10px;
+}

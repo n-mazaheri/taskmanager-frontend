@@ -1,0 +1,6 @@
+module.exports = {
+  // Other Jest config options...
+  transformIgnorePatterns: [
+    "/node_modules/(?!axios)/"  // Transform axios since it uses ES modules
+  ],
+};
